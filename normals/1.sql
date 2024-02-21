@@ -1,0 +1,1 @@
+SELECT "latitude", "longtitude", "0m", "250m", "500m" FROM "normals";
